@@ -1,0 +1,17 @@
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\bin\Debug\sqlsifremiunuttumguncel.exe.config
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\bin\Debug\sqlsifremiunuttumguncel.exe
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\bin\Debug\sqlsifremiunuttumguncel.pdb
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\bin\Debug\EntityFramework.dll
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\bin\Debug\EntityFramework.xml
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.csprojAssemblyReference.cache
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.Form1.resources
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.GirisBasarili.resources
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.Properties.Resources.resources
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.csproj.GenerateResource.cache
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.csproj.CoreCompileInputs.cache
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.csproj.CopyComplete
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.exe
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.pdb
+C:\Users\unuva\source\repos\sqlsifremiunuttumguncel\sqlsifremiunuttumguncel\obj\Debug\sqlsifremiunuttumguncel.SifreYenile.resources
